@@ -1,7 +1,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Passion+One&display=swap');
 
-
+::-webkit-scrollbar{
+    width: 0;
+}
 *{
     margin: 0%;
     padding: 0%;
